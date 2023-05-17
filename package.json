@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/localforage": "^0.0.34",
+    "@types/react-router-dom": "^5.3.3",
+    "localforage": "^1.10.0",
+    "react-router-dom": "^6.11.1"
+  }
+}
